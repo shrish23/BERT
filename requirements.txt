@@ -1,0 +1,6 @@
+torch
+sentencepiece
+tqdm
+transformers
+safetensors
+datasets
